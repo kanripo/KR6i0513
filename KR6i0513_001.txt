@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:22.145636
+#+DATE: 2015-08-30 20:21:23.534236
 #+TITLE: 佛說內藏百寶經
 #+PROPERTY: CBETA_ID T17n0807
 #+PROPERTY: ID KR6i0513
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 807
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0513_T_000-0751b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0513_T_001-0751b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.807¶
-
- 《佛說內藏百寶經》¶
+No. 807¶
+《佛說內藏百寶經》¶
 ¶
 後漢月氏三藏支婁迦讖譯¶
 
