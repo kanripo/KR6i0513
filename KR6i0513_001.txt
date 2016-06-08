@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:23.335720
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:49
 #+TITLE: 佛說內藏百寶經
 #+PROPERTY: CBETA_ID T17n0807
 #+PROPERTY: ID KR6i0513
